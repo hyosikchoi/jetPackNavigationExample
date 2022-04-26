@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/memoFragment"
+        android:enabled="true"
+        android:title="@string/memo"
+        android:icon="@drawable/ic_memo"
+        />
+
+    <item
+        android:id="@+id/contentFragment"
+        android:enabled="true"
+        android:title="@string/content"
+        android:icon="@drawable/ic_content"
+        />
+
+    <item
+        android:id="@+id/myPageFragment"
+        android:enabled="true"
+        android:title="@string/mypage"
+        android:icon="@drawable/ic_mypage"
+        />
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetPackNavi</string>
+    <string name="home">홈</string>
+    <string name="memo">메모</string>
+    <string name="content">컨텐츠</string>
+    <string name="mypage">마이페이지</string>
+</resources>
